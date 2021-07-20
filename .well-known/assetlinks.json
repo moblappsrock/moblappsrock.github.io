@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.moblappsrock.effectiveapps",
+    "sha256_cert_fingerprints":
+    ["50:96:FF:A6:E4:D5:13:29:6D:4A:C3:F0:5D:7E:B8:20:F6:3E:28:07:FF:F2:B7:23:A6:CC:88:79:40:CD:72:4A"]
+  }
+}]
